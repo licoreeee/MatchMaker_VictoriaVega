@@ -152,6 +152,21 @@ headder .match-name{
     outline-width: 2px;
 }
 
+.info {
+    width: 100%;
+}
+
+.backdrop {
+    background-color: #F4F4F9;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 140%;
+    z-index: -1;
+    opacity: 0.3;
+}
+
 
 
 
